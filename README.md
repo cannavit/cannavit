@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋,! I am a fan of service automation and of participating in software development</h1>
-<h3 align="center">A passionate DevOps, backend and Flutter!</h3>
+<h1 align="center">Hi 👋,! I am a Cecilio Cannavacciuolo</h1>
+<h3 align="center">A passionate automation, backend and Flutter!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cannavit" alt="cannavit" /></a> </p>
 
 🔭 I have been working on the following projects how:
 
-    - [Edutelling](https://edutelling.it/)
-    - [Paxitalia](https://www.paxitalia.com/it/soluzioni)
+   - [Edutelling](https://edutelling.it/)
+   - [Paxitalia](https://www.paxitalia.com/it/soluzioni)
+   - [Fantaking](https://www.fantaking.it/)
     
     
 
