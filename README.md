@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, IHello! I am a fan of service automation and of participating in software development.'m Cecilio Cannavacciuolo</h1>
+<h1 align="center">Hi 👋,! I am a fan of service automation and of participating in software development</h1>
 <h3 align="center">A passionate DevOps, backend and Flutter!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cannavit" alt="cannavit" /></a> </p>
 
-- 🔭 I’m currently working on [Edutelling](https://edutelling.it/)
+🔭 I have been working on the following projects how:
 
-- 👯 I’m looking to collaborate on [Edutelling](https://edutelling.it/)
+    - [Edutelling](https://edutelling.it/)
+    - [Paxitalia](https://www.paxitalia.com/it/soluzioni)
+    
+    
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
