@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋,! I am a Cecilio Cannavacciuolo</h1>
 <h3 align="center">A passionate automation, backend and Flutter!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cannavit" alt="cannavit" /></a> </p>
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
