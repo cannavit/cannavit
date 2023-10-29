@@ -17,7 +17,7 @@
    - [Edutelling](https://edutelling.it/)
    - [Paxitalia](https://www.paxitalia.com/it/soluzioni)
    - [Fantaking](https://www.fantaking.it/)
-    
+   - [LiveStory](https://www.livestory.nyc)
     
 
 
