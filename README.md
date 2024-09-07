@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,! I am a CannavIT dev</h1>
-<h3 align="center">A passionate automation, backend and Flutter!</h3>
+<h3 align="center">A passionate automation, software development!</h3>
 
 
 
